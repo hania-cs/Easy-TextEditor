@@ -1,5 +1,3 @@
-
-```markdown
 # EasyTextEditor
 
 EasyTextEditor is a simple and lightweight text editor built with HTML, CSS, and JavaScript. Whether you need to take quick notes, edit code snippets, or jot down thoughts, EasyTextEditor provides a seamless and intuitive user experience.
